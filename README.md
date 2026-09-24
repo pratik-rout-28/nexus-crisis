@@ -61,8 +61,8 @@ Designed for **hotels, resorts, campuses, and large facilities** where rapid eme
 
 - Usnish Banerjee *(Team Leader)*  
 - Debasmita Banik  
-- Sohini Chakraborty  
-- Sayan Majumder  
+- Debosmita Chowdhury  
+- Pratik Rout  
 
 ---
 
