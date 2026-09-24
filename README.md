@@ -57,7 +57,7 @@ Designed for **hotels, resorts, campuses, and large facilities** where rapid eme
 
 ## 👨‍💻 Team  
 
-**Byte Club**  
+**Syntax Surgeons**  
 
 - Usnish Banerjee *(Team Leader)*  
 - Debasmita Banik  
